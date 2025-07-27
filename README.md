@@ -10,3 +10,4 @@ DOMAIN NAME : ARTIFICIAL INTELLIGENCE
 BATCH DURATION : 5 JULY 2025 TO 5 AUGUST 2025
 
 OUTPUT:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e5ab4344-b6cd-4149-a155-9a5fd89072bc" />
